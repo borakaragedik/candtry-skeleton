@@ -6,6 +6,9 @@
 .phpactor.json
 .phpunit.result.cache
 
+# JetBrains AI / local MCP configuration
+/.ai/mcp/
+
 # Codex
 /.codex/*
 !/.codex/config.toml
