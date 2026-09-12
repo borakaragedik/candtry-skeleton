@@ -5,7 +5,10 @@
 .env.production
 .phpactor.json
 .phpunit.result.cache
-/.codex
+# Codex local/project files are ignored by default,
+/.codex/*
+# Codex local/project files are ignored by default,
+/.codex/*
 /.cursor/
 /.idea
 /.nova
