@@ -5,10 +5,11 @@
 .env.production
 .phpactor.json
 .phpunit.result.cache
-# Codex local/project files are ignored by default,
+
+# Codex
 /.codex/*
-# Shared project configuration is version controlled.
 !/.codex/config.toml
+
 /.cursor/
 /.idea
 /.nova
