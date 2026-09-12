@@ -7,8 +7,8 @@
 .phpunit.result.cache
 # Codex local/project files are ignored by default,
 /.codex/*
-# Codex local/project files are ignored by default,
-/.codex/*
+# Shared project configuration is version controlled.
+!/.codex/config.toml
 /.cursor/
 /.idea
 /.nova
